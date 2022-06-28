@@ -1001,3 +1001,16 @@ section {
     /* height: 285px; */
     background: black;
 }
+
+.camea {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 285px;
+    background: white;
+}
+
+.camea-picture {
+    max-width: 250px;
+    height: 200px;
+}
