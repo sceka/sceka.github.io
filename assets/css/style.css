@@ -1014,3 +1014,7 @@ section {
     max-width: 250px;
     height: 200px;
 }
+
+.submit-button {
+    margin-top: 3%;
+}
